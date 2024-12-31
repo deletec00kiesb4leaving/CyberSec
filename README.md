@@ -8,6 +8,7 @@ A showcase of my journey in cybersecurity:
 ## Cybersecurity Tools 
 - **Scripts**:
   - [Simple Port Scanner](Network_Mapping/port_mapper.sh) - Nmap for fast and basic network scanning.
+  - [Simple ICMP Ping](Network_Mapping/ping_subnet24.sh) - ICMP Ping the entire subnet.
 
 ## Programming 
 - **Python**:
