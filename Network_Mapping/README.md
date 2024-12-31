@@ -24,4 +24,5 @@ To scan the entire `10.0.0.0/8` subnet:
 
 ```sh
 nmap -F 10.0.0.0/8
-´´´
+```
+
