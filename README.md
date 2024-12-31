@@ -18,7 +18,7 @@ A showcase of my journey in cybersecurity:
 ## Contact 
 - Email: [your.email@example.com](mailto:your.email@example.com)
 - LinkedIn: [LinkedIn Profile](URL_to_LinkedIn)
-- GitHub: [GitHub Profile](URL_to_GitHub)
+- GitHub: [GitHub Profile](https://github.com/deletec00kiesb4leaving)
 
 
 Eager to learn and grow in cybersecurity!
