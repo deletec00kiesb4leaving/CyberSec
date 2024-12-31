@@ -3,7 +3,7 @@ A showcase of my journey in cybersecurity:
 
 ## Portfolio Documents 
 - **Projects**:
-  - [Random Password Generator](path/to/project1.pdf)
+  - [Random Password Generator](Python_Scripts/password_generator.py)
 
 ## Cybersecurity Tools 
 - **Scripts**:
