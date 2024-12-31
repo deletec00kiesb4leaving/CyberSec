@@ -26,3 +26,26 @@ To scan the entire `10.0.0.0/8` subnet:
 nmap -F 10.0.0.0/8
 ```
 
+### 172.16.0.0/12
+
+To scan the entire `172.16.0.0/12` range:
+
+```sh
+nmap -F 172.16.0.0/12
+```
+
+### 192.168.0.0/16
+
+To scan the entire `192.168.0.0/16` subnet:
+
+```sh
+nmap -F 192.168.0.0/16
+```
+
+### 192.168.1.0/24
+
+To scan the entire `192.168.1.0/24` subnet:
+
+```sh
+nmap -F 192.168.1.0/24
+```
