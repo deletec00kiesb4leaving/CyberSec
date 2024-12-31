@@ -7,7 +7,7 @@ A showcase of my journey in cybersecurity:
 
 ## Cybersecurity Tools 
 - **Scripts**:
-  - [Simple Port Scanner](path/to/port_scanner.py) - Python for basic network scanning.
+  - [Simple Port Scanner](Network_Mapping/port_mapper.sh) - Nmap for fast and basic network scanning.
 
 ## Programming 
 - **Python**:
