@@ -16,7 +16,7 @@ A showcase of my journey in cybersecurity:
 
 
 ## Contact 
-- Email: You can use [send.compare460@aleeas.com](mailto:send.compare460@aleeas.com) or if you how, find the other one 😉
+- Email: You can use [send.compare460@aleeas.com](mailto:send.compare460@aleeas.com) or if you know how, use the other one 😉.
 - TryHackMe: [TryHackMe Profile](https://tryhackme.com/r/p/d44h)
 - GitHub: [GitHub Profile](https://github.com/deletec00kiesb4leaving)
 
