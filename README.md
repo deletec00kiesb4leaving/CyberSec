@@ -18,6 +18,7 @@ A showcase of my journey in cybersecurity:
 ## Contact 
 - Email: [your.email@example.com](mailto:your.email@example.com)
 - LinkedIn: [LinkedIn Profile](URL_to_LinkedIn)
+- TryHackMe: [TryHackMe Profile](https://tryhackme.com/r/p/d44h)
 - GitHub: [GitHub Profile](https://github.com/deletec00kiesb4leaving)
 
 
