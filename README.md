@@ -4,6 +4,7 @@ A showcase of my journey in cybersecurity:
 ## Portfolio Documents 
 - **Projects**:
   - [Random Password Generator](Python_Scripts/password_generator.py)
+  - [Botium Toys' Security Audit](Google_Cybersecurity_Certification/SecurityAudit_BotiumToys)
 
 ## Cybersecurity Tools 
 - **Scripts**:
