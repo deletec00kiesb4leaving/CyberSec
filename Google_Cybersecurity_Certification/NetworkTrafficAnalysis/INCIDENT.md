@@ -6,6 +6,8 @@ You are a cybersecurity analyst working at a company that specializes in providi
 
 You are tasked with analyzing the situation and determining which network protocol was affected during this incident. To start, you attempt to visit the website and you also receive the error “destination port unreachable.” To troubleshoot the issue, you load your network analyzer tool, **tcpdump**, and attempt to load the webpage again. To load the webpage, your browser sends a query to a DNS server via the **UDP** protocol to retrieve the IP address for the website's domain name; this is part of the **DNS** protocol. Your browser then uses this IP address as the destination IP for sending an **HTTPS** request to the web server to display the webpage. The analyzer shows that when you send UDP packets to the DNS server, you receive **ICMP** packets containing the error message: “udp port 53 unreachable.” 
 
+![tcpdump Lof File](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/LKXsnNIhT0e1mAz5AEvxog_d363c94e0a4f4a8b90b0be403f6ee1f1_mMBaLWLyXG2omYBcSdjuR8y5_S59zow1ZEPYdjNyJzA1B0r55nI9KmDosI8QHXcEwE51NxM3N5gNtMgSOyVDHyJVLZvZA7_jJtkzUKfxuqFUJPHs57vVVES-LbG5teR8eir4idaqsxFaYJhhVJZn-a_S-txb7zQNIZq07XESgSkqDHuzfvALfYk3lipGVBY?expiry=1736035200000&hmac=Ne4ID431HRYlVPfIburlCuQgbBRleNiuy5-k24PWgAc)
+
 ## Log from tcpdump packet data
 
 In the tcpdump log, you find the following information:
