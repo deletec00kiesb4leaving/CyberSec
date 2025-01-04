@@ -21,16 +21,22 @@ I embarked on this research after discovering the capabilities of tools like Cen
 
 - Used Censys to gather a list of IP addresses with the matched search criteria exposed to the internet.
 
+![Censys Scan Query](CensysSearchQuery.png)
+
 ### Step 3: Default Credentials Verification
 
 - Attempted to log in to each identified IP with the default credentials.
 - Most addresses led to login pages with altered credentials, except for one.
+
+![Censys Scan Results](CensysResults.png)
 
 ### Step 4: Anomaly Detection
 
 - One IP address led to a "County Broadband" login page, structurally similar to a MEO FiberGateway but configured differently.
 - Raised suspicions of a potential honeypot.
 - Despite this, the login was successful using default credentials, but no registered landline was found, complicating owner notification.
+
+![County Broadband Dashboard](images/image1_dashboard.png)
 
 ### Step 5: Network Analysis
 
@@ -40,17 +46,24 @@ I embarked on this research after discovering the capabilities of tools like Cen
 ### Step 6: Neighbor Network Scan
 
 - Conducted a scan for neighboring WiFi networks to gather SSIDs and MAC addresses.
-- ![Network Scan Results](link-to-your-image.jpg)
+
+![Network WiFi](images/image2_wifi.png)
+![Network Neighbors](images/image3_neighbors.png)
 
 ### Step 7: MAC Address Confirmation
 
 - Closed the connection and analyzed the MAC address, confirming it was a MEO/Altice device.
+
+![MAC Address Verification](images/image6_MACaddress.png)
 
 ### Step 8: Geo-Location Triangulation
 
 - Used wigle.net to correlate the SSIDs of nearby networks:
   - This led to a triangulation to Telheiras, Lisbon.
 - A map search confirmed the area as a commercial zone, making further pinpointing difficult.
+
+![Wigle.net](images/image7_WifiAP.png)
+![Map](images/image9_map.png)
 
 ## Conclusion
 
