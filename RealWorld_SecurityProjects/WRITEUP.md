@@ -62,7 +62,7 @@ I embarked on this research after discovering the capabilities of tools like Cen
   - This led to a triangulation to Telheiras, Lisbon.
 - A map search confirmed the area as a commercial zone, making further pinpointing difficult.
 
-![Wigle.net](images/image7_WifiAP.png)
+![Wigle](images/image7_neighborWifiAP.png)
 ![Map](images/image9_map.png)
 
 ## Conclusion
