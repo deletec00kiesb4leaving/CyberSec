@@ -1,1 +1,4 @@
-##Need to Upload my Writeups Here!
+## Blue Team:
+- [Disgruntled](/Disgruntled/README.md): Forensics - Sudo Privileges Investigation
+## Red Team:
+- 
