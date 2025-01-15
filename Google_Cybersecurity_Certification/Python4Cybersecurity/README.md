@@ -8,7 +8,7 @@ This activity involved creating a Python script to manage IP addresses by:
    - Coded a script to generate `X` randomized IPv4 addresses.
    - Created an `remove_list.txt` with 3 IP addresses to be removed from the generated list.
 
-   ![Screenshot of Generated IP Addresses](Generated.PNG)
+   ![Screenshot of Generated IP Addresses](Generated.png)
 
 ## Main Task
 
@@ -19,7 +19,7 @@ This activity involved creating a Python script to manage IP addresses by:
 
   The script reads both files, filters out any IPs from `allow_list.txt` that appear in `remove_list.txt`, and outputs the filtered list.
   
-   ![Screenshot of Updated IP List](Updated.PNG)
+   ![Screenshot of Updated IP List](Updated.png)
 
 ## Usage
 
